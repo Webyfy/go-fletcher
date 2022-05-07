@@ -1,3 +1,3 @@
-module git.reach-iot.com/iot-master/fletcher
+module git.webyfy.com/iot-master/fletcher
 
-go 1.16
+go 1.18
