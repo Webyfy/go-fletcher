@@ -1,3 +1,3 @@
-module git.webyfy.com/iot-master/fletcher
+module gitlab.com/webyfy/iot/go-fletcher
 
-go 1.18
+go 1.21.3
